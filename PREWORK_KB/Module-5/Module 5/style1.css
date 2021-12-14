@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.big {
+    font-size: x-large;
+}
+
+.tiny{
+    font-size: x-small;
+}
+
+.center {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.font {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.combo {
+    font-size: large; color: orange; font-weight: bold;
+}
+
+.styledFont {
+    font-family: Georgia, 'Times New Roman', Times, serif; color: peru; font-variant: small-caps;
+}
+
+img {
+    border-style: dashed; border-width: 0.1in; border-color: purple;
+}

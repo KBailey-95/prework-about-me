@@ -1,0 +1,21 @@
+Comments are listed here in the order they appear within the files.
+
+BooTheDog.html
+
+<!-- missing h1 tag to render "Boo The Dog Fan Page!" as a heading-->
+<!--There are no paragraphs here, heavily impacting readability and ease of formatting at a later time-->
+<!--URL should be within the href element as well as in between the opening and closing of the anchor element-->
+<!--Indentations here are very sloppy, leading to hard to follow code which can cause problems when returtning to work after extended periods, collaborating, or debugging-->
+<!--more indentation adjustments-->
+<!--Class should be instantiated within the img element to have this image render properly. There was no logic here to complete this process.-->
+<!--Color variables and color values did not match-->
+<!--html file was not linked to the correct js file, rendering all external js useless-->
+
+logic.js (Broken Code)
+
+// no comments here to describe any of these functions
+// booFacts was not created as an array, leaving the following function useless as there is no value set to index. The entire booFacts var is treated as a single string
+//some close quotations came after the comma or in other seemingly random places designed to separate positions in the array. This was difficult becasuse the english-speaking inclination was to see these as normal statements I was misinterpreting
+//no quotations around pink
+//no indention here
+// clicks were not in quotations so buttons didn't work
